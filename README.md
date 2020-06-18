@@ -1,0 +1,2 @@
+# VReak
+With this app you will be able to chat with other users in virtual reality (VR) in different environments and with different avatars. The game is specially designed for those people that play in small places as movement is achieved by walking in place in a natural form. You can also use the Noocratic hardware (PLATO) to improve the experience. This way you will be able to translate the movement of your feet into movement in the VR space.
